@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+  }
+  
+  
+  .header{
+    background:grey;
+    padding: 10px;
+    margin: 0;
+    text-align: center;
+  }
+ 
+     
+   
+   .column {
+    float: left;
+    width: 49%;
+    padding: 1px;
+  }
+  .red {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+  }
+  
+   .shan
+   {
+     background:pink;
+     height:478px;
+     margin:0;
+     padding: 1px;
+   }
+  .footer
+  {
+    background:blue;
+    padding: 1px;
+  }
+  .last
+  {
+      text-align: right;
+  }
+   .nav {
+    overflow: hidden;
+    background-color: #333;
+   }
+   .nav a {
+     color: yellow;
+     text-decoration: none;
+     padding:15px 16px;
+     float: right;
+  
+   }
+   .nav a:hover{
+     background:white;
+     color:black;
+   }
+  
+   
